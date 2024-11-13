@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @VarunProton
-- 👀 I’m interested in Embedded Systems
+- 👋 Hi, I’m Varun
+- 👀 Known Languages C, C++, Python and Verilog
 - 🌱 I’m currently learning at Emetxe Embedded center Bangalore
 - 📫 How to reach me through mail varun.h.14@gmail.com
 - 😄 Pronouns: He/Him
