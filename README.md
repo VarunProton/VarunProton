@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Varun
-- 👀 Known Languages C, C++, Python and Verilog
+- 👀 Known Languages C, C++, Embedded Systems, Linux.
 - 🌱 I’m currently learning at Emetxe Embedded center Bangalore
 - 📫 How to reach me through mail varun.h.14@gmail.com
 - 😄 Pronouns: He/Him
-- 😊 Drean job role as Embedded system Engineer
+- 😊 Drean job role as Embedded software Engineer
 - 😁 Completed my Degree in Electronics and Communication Engineering
 
 <!---
